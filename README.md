@@ -1,6 +1,6 @@
 # IT-2321 Lab 3: Processing Data with Higher-Order Functions
 
-**Week 6 | Reading: Eloquent JavaScript, Chapter 5**
+**Reading: Eloquent JavaScript, Chapter 5**
 
 This lab is practice with using map, filter, and reduce, and writing a higher-order function of your own.
 
